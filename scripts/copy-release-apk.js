@@ -21,5 +21,5 @@ if (!fsn.existsSync('release')) {
 
 fsn.copyFileSync(
   'android/app/build/outputs/apk/release/app-release.apk',
-  'release/OneBitCode-' + sufix + '-1.0' + '.apk',
+  'release/OneBitCoin-' + sufix + '-1.0' + '.apk',
 )
