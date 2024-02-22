@@ -24,6 +24,11 @@
       },
       "package": "com.theo.onebitcoin",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "06590964-1014-4500-a18f-7bc03a4a2f6f"
+      }
     }
   }
 }
